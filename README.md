@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jaid0-0
-- 👀 I’m interested in design 
-- 🌱 I’m currently learning User experience 
+- 👀 I’m interested in Ux and graphic design 
+- 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on web/app development projects
 - 😄 Pronouns: she/hers
 - ⚡ Fun fact: I love cats and playing guitar 
